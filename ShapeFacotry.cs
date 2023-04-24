@@ -9,6 +9,7 @@ namespace ASEProject
     /// <summary>
     /// the shape facotry is for creating the instances of the shapes.
     /// used for removing any dependencies
+    /// Will be used to call classes of different shapes
     /// </summary>
     class ShapeFacotry
     {
