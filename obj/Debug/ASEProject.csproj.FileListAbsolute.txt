@@ -1,0 +1,44 @@
+C:\Users\User\Documents\ASE\obj\Debug\ASEProject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ASE\obj\Debug\ASEProject.Form1.resources
+C:\Users\User\Documents\ASE\obj\Debug\ASEProject.csproj.GenerateResource.cache
+C:\Users\User\Documents\ASE\obj\Debug\ASEProject.Properties.Resources.resources
+C:\Users\User\Documents\ASE\obj\Debug\ASEProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASE2\obj\Debug\ASEProject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ASE2\obj\Debug\ASEProject.Form1.resources
+C:\Users\User\Documents\ASE2\obj\Debug\ASEProject.csproj.GenerateResource.cache
+C:\Users\User\Documents\ASE2\obj\Debug\ASEProject.Properties.Resources.resources
+C:\Users\User\Documents\ASE2\obj\Debug\ASEProject.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.csproj.AssemblyReference.cache
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.Form1.resources
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.Properties.Resources.resources
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.csproj.GenerateResource.cache
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\ASEProject.exe.config
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\ASEProject.exe
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\ASEProject.pdb
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\WebGrease.dll
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.csproj.CopyComplete
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.exe
+C:\Users\Muhammad Waseem\Downloads\ASE2 - Copy\obj\Debug\ASEProject.pdb
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\ASEProject.exe.config
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\ASEProject.exe
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\ASEProject.pdb
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\Antlr3.Runtime.dll
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\WebGrease.dll
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\Antlr3.Runtime.pdb
+C:\MyData\Orders\order5\ASE2 - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.csproj.AssemblyReference.cache
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.csproj.SuggestedBindingRedirects.cache
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.Form1.resources
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.Properties.Resources.resources
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.csproj.GenerateResource.cache
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.csproj.CoreCompileInputs.cache
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.csproj.CopyComplete
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.exe
+C:\MyData\Orders\order5\ASE2 - Copy\obj\Debug\ASEProject.pdb
