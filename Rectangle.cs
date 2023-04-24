@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// Class definition of Rectangle for the Factory Method to call this class
+/// Class definition of Rectangle for the Factory Method to use this class
 
 namespace ASEProject
 {

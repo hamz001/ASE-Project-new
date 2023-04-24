@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+/// Class definition of Circle for the Factory Method to use this class
 namespace ASEProject
 {
     class Circle : Shape
